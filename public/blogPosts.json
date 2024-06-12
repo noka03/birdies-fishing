@@ -1,0 +1,23 @@
+{
+    "blogs": [
+        {
+            "thumb": "/blogPosts/nevada/blog1-nevada.jpeg",
+            "title": "Sierra Nevada Rock Formation",
+            "summary": "What an amazing place to explore, the Sierra Nevada Rock Formation is off the beaten track down the Mornington Penninsula. Take a drive...",
+            "fullText": "/blogPosts/nevada/nevada.html",
+            "publishDate": "2022-01-16"
+        },
+        {
+            "thumb": "",
+            "title": "Camp like a champ: 10 game-changing tips from the pros",
+            "summary": "To edit the way your blog feed looks on your site, hover over your blog feed and click on Design. Here, you can pick from different...",
+            "publishDate": "2022-01-16"
+        },
+        {
+            "thumb": "",
+            "title": "Essential hiking and camping gear for your next trip",
+            "summary": "To create and manage your own content, open the Blog Manager by hovering over your blog feed and clicking Manage. Here you can create,...",
+            "publishDate": "2022-01-16"
+        }
+    ]
+}
