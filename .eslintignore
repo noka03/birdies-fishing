@@ -1,0 +1,4 @@
+src/assets/*
+src/fake-db/*
+tailwind.config.js
+tailwind-v0.js
